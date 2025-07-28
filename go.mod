@@ -1,3 +1,3 @@
 module github.com/go-spring/gs-new
 
-go 1.24.4
+go 1.24
